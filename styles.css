@@ -4,6 +4,7 @@ body{
   font-size:18px;
   width:80%;
   text-align:center;
+  color:white;
 }
 
 @media screen and (max-width: 768px) {
